@@ -14,4 +14,4 @@ routes(app);
 
 app.use(manipuladorDeErros);
 
-export default app
+export default app;
